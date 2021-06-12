@@ -7,7 +7,7 @@ body {
 	line-height: 2;
 	font-family: "Comic Sans MS", "Balsamiq Sans";
 	color: #222426;
-	background-color: #b2bcc5;
+	background-color: #f4fcff;
 }
 
 header {
@@ -15,13 +15,13 @@ header {
 	padding-right: 100px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #454a51;
-	color: #849295;
+	background-color: #12242B;
+	color: #fff9f2;
 }
 
 footer {
-	color: #849295;
-	background-color: #24292b;
+	color: #fff9f2;
+	background-color: #12242B;
 	padding-left: 100px;
 	padding-top: 20px;
 	padding-bottom: 20px;
