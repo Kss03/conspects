@@ -31,20 +31,17 @@ main {
 	padding-bottom: 20px;
 }
 
-.block {
-	white-space: wrap;
-	vertical-align: middle;
+.parent {
+	display: flex;
+	justify-content: space-around;
 }
 
 .lst {
+	width: 300px;
+	padding-left: 3px;
+	padding-right: 3px;
 	background-color: white;
 	border: 3px solid black;
-	display: inline-block;
-	margin: 2%;
-	padding-left: 1%;
-	width: 280px;
-	min-width: 20%;
-	vertical-align: top;
 }
 
 ul {
@@ -62,6 +59,5 @@ h1 {
 }
 
 h2 {
-	display: inline-block;
-		
+	text-align: center;
 }
