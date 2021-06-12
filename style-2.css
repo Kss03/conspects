@@ -33,15 +33,19 @@ main {
 
 .parent {
 	display: flex;
+	flex-flow: wrap;
 	justify-content: space-around;
 }
 
 .lst {
-	width: 300px;
+	width: 350px;
 	padding-left: 3px;
 	padding-right: 3px;
+	margin-bottom: 2%;
 	background-color: white;
 	border: 3px solid black;
+	border-radius: 10%;
+	background-color: #eaeff1;
 }
 
 ul {
